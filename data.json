@@ -1,0 +1,32 @@
+{
+  "mint": "BKQAXxsp3uANTWJeFeJDUqN5UPuqVGMKMeA76r8BSCvx",
+  "marketId": "4zuRrkkJuKWWyBoaLtGHNZHqe8UxDWpvhYrJRe9YATso",
+  "poolId": "H2svPzpe6tR1eJQUQMnP1Fx8Qi9tca5YCYNjKj3Stwjb",
+  "mainKp": "",
+  "poolKeys": {
+    "id": "H2svPzpe6tR1eJQUQMnP1Fx8Qi9tca5YCYNjKj3Stwjb",
+    "baseMint": "BKQAXxsp3uANTWJeFeJDUqN5UPuqVGMKMeA76r8BSCvx",
+    "quoteMint": "So11111111111111111111111111111111111111112",
+    "lpMint": "2Vt9vUSQBPxh4QwvXtSegi5WjPWVCdukJNkuUrqUZrrL",
+    "baseDecimals": 9,
+    "quoteDecimals": 9,
+    "lpDecimals": 9,
+    "version": 4,
+    "programId": "HWy1jotHpo6UqeQxx49dpYYdQB8wj9Qk9MdxwjLvDHB8",
+    "authority": "DbQqP6ehDYmeYjcBaMRuA8tAJY1EjDUz9DpwSLjaQqfC",
+    "nonce": 252,
+    "baseVault": "F7Tbizs86gZzGBqT2Rk51nPFC2hUNZx63oS7Q7L18D4o",
+    "quoteVault": "4dxVtLxHKhJxhCQaZ9LuBD2dZXbyETpGHRLznCpbfxfS",
+    "lpVault": "CqHWNwdvKtJj876CE2DefAdyaUfMKRMCwsaebpe1duGp",
+    "openOrders": "5NZ41M7vcuqrhkLeLruJ4v9ppczDdXK7ar8kJ4A82roH",
+    "targetOrders": "FLSSmnd7eey3nwNiLqbfT47cM8iHwFtpCHwvjztZ2eKk",
+    "withdrawQueue": "ACWQB8wKHgV44YC2qMoZhYFMPNeBTyCPDVAtxomE4ov7",
+    "marketVersion": 3,
+    "marketProgramId": "EoTcMgcDRTJVZDMZWBoU6rhYHZfkNTVEAfz3uUJRcYGj",
+    "marketId": "4zuRrkkJuKWWyBoaLtGHNZHqe8UxDWpvhYrJRe9YATso",
+    "marketAuthority": "2U9eTc32dKggez9FbC7pCR5N2cu5NhYfjzM1vDujbCKC",
+    "lookupTableAccount": "11111111111111111111111111111111",
+    "configId": "8QN9yfKqWDoKjvZmqFsgCzAqwZBQuzVVnC388dN5RCPo"
+  },
+  "removed": false
+}
