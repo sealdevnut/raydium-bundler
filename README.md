@@ -1,6 +1,6 @@
 Contact me if you have questions 
 
-Telegram: @sealdev
+[Twitter](https://x.com/0xmooncity)
 
 🌟 Key Features
 🔗 Multi-Wallet Management: Handle transactions for 27 wallets simultaneously.
